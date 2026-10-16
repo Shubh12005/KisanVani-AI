@@ -1,0 +1,422 @@
+[
+  {
+    "id": "mr_01",
+    "language": "mr",
+    "question": "सोयाबीनची पेरणी कधी करावी?",
+    "expected_topic": "sowing",
+    "expected_crop": "Soybean"
+  },
+  {
+    "id": "mr_02",
+    "language": "mr",
+    "question": "सोयाबीनला पाणी कधी द्यावे?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Soybean"
+  },
+  {
+    "id": "mr_03",
+    "language": "mr",
+    "question": "सोयाबीनसाठी कोणते खत वापरावे?",
+    "expected_topic": "fertilizer",
+    "expected_crop": "Soybean"
+  },
+  {
+    "id": "mr_04",
+    "language": "mr",
+    "question": "कापसाची पेरणी कधी करावी?",
+    "expected_topic": "sowing",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "mr_05",
+    "language": "mr",
+    "question": "कापसाला पाणी कधी द्यावे?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "mr_06",
+    "language": "mr",
+    "question": "कापसावरील किडीचे नियंत्रण कसे करावे?",
+    "expected_topic": "pest management",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "mr_07",
+    "language": "mr",
+    "question": "कापसावर गुलाबी बोंडअळी असल्यास काय करावे?",
+    "expected_topic": "pest management",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "mr_08",
+    "language": "mr",
+    "question": "गव्हाची पेरणी कधी करावी?",
+    "expected_topic": "sowing",
+    "expected_crop": "Wheat"
+  },
+  {
+    "id": "mr_09",
+    "language": "mr",
+    "question": "गव्हाला पाणी किती वेळा द्यावे?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Wheat"
+  },
+  {
+    "id": "mr_10",
+    "language": "mr",
+    "question": "गव्हासाठी कोणते खत वापरावे?",
+    "expected_topic": "fertilizer",
+    "expected_crop": "Wheat"
+  },
+  {
+    "id": "mr_11",
+    "language": "mr",
+    "question": "तांदळाची लागवड कधी करावी?",
+    "expected_topic": "sowing",
+    "expected_crop": "Rice / Paddy"
+  },
+  {
+    "id": "mr_12",
+    "language": "mr",
+    "question": "तांदळाला पाणी कसे द्यावे?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Rice / Paddy"
+  },
+  {
+    "id": "mr_13",
+    "language": "mr",
+    "question": "तांदळावरील किडीचे नियंत्रण कसे करावे?",
+    "expected_topic": "pest management",
+    "expected_crop": "Rice / Paddy"
+  },
+  {
+    "id": "mr_14",
+    "language": "mr",
+    "question": "पिकावर रोग दिसल्यास काय करावे?",
+    "expected_topic": "disease management",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "mr_15",
+    "language": "mr",
+    "question": "पिकासाठी खत कधी द्यावे?",
+    "expected_topic": "fertilizer",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "mr_16",
+    "language": "mr",
+    "question": "पिकाला सिंचन कधी करावे?",
+    "expected_topic": "irrigation",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "mr_17",
+    "language": "mr",
+    "question": "पिकावरील किडीचे व्यवस्थापन कसे करावे?",
+    "expected_topic": "pest management",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "mr_18",
+    "language": "mr",
+    "question": "पिकाची काढणी कधी करावी?",
+    "expected_topic": "harvesting",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "mr_19",
+    "language": "mr",
+    "question": "पिकाची पेरणी करण्यासाठी योग्य वेळ कोणती?",
+    "expected_topic": "sowing",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "mr_20",
+    "language": "mr",
+    "question": "पिकासाठी कोणती कृषी पद्धत वापरावी?",
+    "expected_topic": "crop practices",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "hi_01",
+    "language": "hi",
+    "question": "सोयाबीन की बुवाई कब करनी चाहिए?",
+    "expected_topic": "sowing",
+    "expected_crop": "Soybean"
+  },
+  {
+    "id": "hi_02",
+    "language": "hi",
+    "question": "सोयाबीन में सिंचाई कब करनी चाहिए?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Soybean"
+  },
+  {
+    "id": "hi_03",
+    "language": "hi",
+    "question": "सोयाबीन के लिए कौन सा खाद उपयोग करना चाहिए?",
+    "expected_topic": "fertilizer",
+    "expected_crop": "Soybean"
+  },
+  {
+    "id": "hi_04",
+    "language": "hi",
+    "question": "कपास की बुवाई कब करनी चाहिए?",
+    "expected_topic": "sowing",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "hi_05",
+    "language": "hi",
+    "question": "कपास में सिंचाई कब करनी चाहिए?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "hi_06",
+    "language": "hi",
+    "question": "कपास में कीट नियंत्रण कैसे करें?",
+    "expected_topic": "pest management",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "hi_07",
+    "language": "hi",
+    "question": "कपास में गुलाबी सुंडी होने पर क्या करें?",
+    "expected_topic": "pest management",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "hi_08",
+    "language": "hi",
+    "question": "गेहूं की बुवाई कब करनी चाहिए?",
+    "expected_topic": "sowing",
+    "expected_crop": "Wheat"
+  },
+  {
+    "id": "hi_09",
+    "language": "hi",
+    "question": "गेहूं में सिंचाई कितनी बार करनी चाहिए?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Wheat"
+  },
+  {
+    "id": "hi_10",
+    "language": "hi",
+    "question": "गेहूं के लिए कौन सा खाद उपयोग करना चाहिए?",
+    "expected_topic": "fertilizer",
+    "expected_crop": "Wheat"
+  },
+  {
+    "id": "hi_11",
+    "language": "hi",
+    "question": "धान की रोपाई कब करनी चाहिए?",
+    "expected_topic": "sowing",
+    "expected_crop": "Rice / Paddy"
+  },
+  {
+    "id": "hi_12",
+    "language": "hi",
+    "question": "धान में पानी कैसे देना चाहिए?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Rice / Paddy"
+  },
+  {
+    "id": "hi_13",
+    "language": "hi",
+    "question": "धान में कीट नियंत्रण कैसे करें?",
+    "expected_topic": "pest management",
+    "expected_crop": "Rice / Paddy"
+  },
+  {
+    "id": "hi_14",
+    "language": "hi",
+    "question": "फसल में रोग दिखाई देने पर क्या करना चाहिए?",
+    "expected_topic": "disease management",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "hi_15",
+    "language": "hi",
+    "question": "फसल में खाद कब देना चाहिए?",
+    "expected_topic": "fertilizer",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "hi_16",
+    "language": "hi",
+    "question": "फसल में सिंचाई कब करनी चाहिए?",
+    "expected_topic": "irrigation",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "hi_17",
+    "language": "hi",
+    "question": "फसल में कीट प्रबंधन कैसे करें?",
+    "expected_topic": "pest management",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "hi_18",
+    "language": "hi",
+    "question": "फसल की कटाई कब करनी चाहिए?",
+    "expected_topic": "harvesting",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "hi_19",
+    "language": "hi",
+    "question": "फसल की बुवाई का सही समय क्या है?",
+    "expected_topic": "sowing",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "hi_20",
+    "language": "hi",
+    "question": "फसल के लिए कौन सी कृषि पद्धति अपनानी चाहिए?",
+    "expected_topic": "crop practices",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "en_01",
+    "language": "en",
+    "question": "When should soybean be sown?",
+    "expected_topic": "sowing",
+    "expected_crop": "Soybean"
+  },
+  {
+    "id": "en_02",
+    "language": "en",
+    "question": "When should soybean be irrigated?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Soybean"
+  },
+  {
+    "id": "en_03",
+    "language": "en",
+    "question": "Which fertilizer should be used for soybean?",
+    "expected_topic": "fertilizer",
+    "expected_crop": "Soybean"
+  },
+  {
+    "id": "en_04",
+    "language": "en",
+    "question": "When should cotton be sown?",
+    "expected_topic": "sowing",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "en_05",
+    "language": "en",
+    "question": "When should cotton be irrigated?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "en_06",
+    "language": "en",
+    "question": "How should cotton pests be controlled?",
+    "expected_topic": "pest management",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "en_07",
+    "language": "en",
+    "question": "What should be done if pink bollworm is found in cotton?",
+    "expected_topic": "pest management",
+    "expected_crop": "Cotton"
+  },
+  {
+    "id": "en_08",
+    "language": "en",
+    "question": "When should wheat be sown?",
+    "expected_topic": "sowing",
+    "expected_crop": "Wheat"
+  },
+  {
+    "id": "en_09",
+    "language": "en",
+    "question": "How often should wheat be irrigated?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Wheat"
+  },
+  {
+    "id": "en_10",
+    "language": "en",
+    "question": "Which fertilizer should be used for wheat?",
+    "expected_topic": "fertilizer",
+    "expected_crop": "Wheat"
+  },
+  {
+    "id": "en_11",
+    "language": "en",
+    "question": "When should rice be transplanted?",
+    "expected_topic": "sowing",
+    "expected_crop": "Rice / Paddy"
+  },
+  {
+    "id": "en_12",
+    "language": "en",
+    "question": "How should rice be irrigated?",
+    "expected_topic": "irrigation",
+    "expected_crop": "Rice / Paddy"
+  },
+  {
+    "id": "en_13",
+    "language": "en",
+    "question": "How should pests in rice be controlled?",
+    "expected_topic": "pest management",
+    "expected_crop": "Rice / Paddy"
+  },
+  {
+    "id": "en_14",
+    "language": "en",
+    "question": "What should be done when a crop disease is observed?",
+    "expected_topic": "disease management",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "en_15",
+    "language": "en",
+    "question": "When should fertilizer be applied to the crop?",
+    "expected_topic": "fertilizer",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "en_16",
+    "language": "en",
+    "question": "When should the crop be irrigated?",
+    "expected_topic": "irrigation",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "en_17",
+    "language": "en",
+    "question": "How should crop pests be managed?",
+    "expected_topic": "pest management",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "en_18",
+    "language": "en",
+    "question": "When should the crop be harvested?",
+    "expected_topic": "harvesting",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "en_19",
+    "language": "en",
+    "question": "What is the suitable time for sowing the crop?",
+    "expected_topic": "sowing",
+    "expected_crop": "General Agriculture"
+  },
+  {
+    "id": "en_20",
+    "language": "en",
+    "question": "Which agricultural practice should be followed for the crop?",
+    "expected_topic": "crop practices",
+    "expected_crop": "General Agriculture"
+  }
+]
